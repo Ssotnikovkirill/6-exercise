@@ -16,3 +16,5 @@ for s in range(1, 40):
      #   print(s)
      if LOSS12(x, s):
          print(s)
+
+print("ГИГАНСКОЕН ИЗМЕНЕНИЕ КОДА!")
